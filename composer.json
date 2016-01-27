@@ -1,0 +1,13 @@
+{
+    "name": "talumn/mywebstack_tutorial",
+    "description": "A simple tutorial project to learn all tools used in a common web stack (based mainly on symfony)",
+    "authors": [
+        {
+            "name": "Cedric Deserville",
+            "email": "talumn@gmail.com"
+        }
+    ],
+    "require": {
+        "symfony/symfony": "3.0.1"
+    }
+}
